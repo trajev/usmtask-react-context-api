@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Checkout from './components/Checkout'
-import ContextProvider from './context/context'
+import ContextProvider from './context/Context'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import BakraCart from './components/BakraCart'
